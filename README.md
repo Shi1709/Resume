@@ -8,7 +8,7 @@ I have strong foundations in **C/C++, Python, Java, and SQL**, with practical ex
 My work combines low-level programming efficiency with data-driven decision-making.
 
 ## Resume
-- 📄 [View Resume (PDF)](RESUME1.PDF)
+- 📄 [View Resume (PDF)](RESUME1.pdf)
 
 ## Projects
 ### Diabetes Prediction Model | Python, KNN, XGBoost, SVM  
